@@ -50,10 +50,6 @@ To simulate a half wave rectifier circuit and compare the outputs with and witho
 <img width="1152" height="1516" alt="image" src="https://github.com/user-attachments/assets/a9ca89a6-6763-4012-a831-29f66bbae407" />
 <img width="1152" height="1451" alt="image" src="https://github.com/user-attachments/assets/dc92ccb6-73f9-40fc-8abe-647d4ebae70e" />
 
-
-
-
-
 ## RESULT:
 <img width="1599" height="831" alt="image" src="https://github.com/user-attachments/assets/05394de6-56db-4f30-b41d-43bc8fd39147" />
 
